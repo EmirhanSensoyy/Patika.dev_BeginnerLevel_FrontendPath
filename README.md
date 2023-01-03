@@ -10,3 +10,8 @@ git clone https://github.com/EmirhanSensoyy/Patika.dev_BeginnerLevel_FrontendPat
 ```
 # Usage
 After cloning the project, open it in the program you are using.
+
+# Images
+
+![project3](https://media.giphy.com/media/UvHAFW2csYBxZgCs1U/giphy.gif) <br>
+3.visual of the project
