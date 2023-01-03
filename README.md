@@ -14,4 +14,4 @@ After cloning the project, open it in the program you are using.
 # Images
 
 ![project3](https://media.giphy.com/media/UvHAFW2csYBxZgCs1U/giphy.gif) <br>
-3.visual of the project
+3.Visual of the project
