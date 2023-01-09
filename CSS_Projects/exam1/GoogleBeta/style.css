@@ -1,0 +1,23 @@
+body { 
+    margin: 0px;
+    padding: 0px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    text-align: center;
+}
+td {
+    text-align:center;
+}
+.search-box {
+    background-color: #EEEEEE;
+    width: 90%;
+    height: 65px;
+    margin:0 auto 0 auto;
+	display:table;
+    text-align: center;
+}
