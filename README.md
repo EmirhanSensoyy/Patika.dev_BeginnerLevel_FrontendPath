@@ -14,4 +14,7 @@ After cloning the project, open it in the program you are using.
 # Images
 
 ![project3](https://media.giphy.com/media/UvHAFW2csYBxZgCs1U/giphy.gif) <br>
-3.Visual of the project
+from the HTML course 3rd project
+
+[![css1](https://iili.io/H5IPECB.md.png)](https://freeimage.host/i/H5IPECB) <br>
+from the CSS course 1rd project
