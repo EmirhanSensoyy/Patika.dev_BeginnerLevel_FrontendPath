@@ -1,0 +1,148 @@
+#menu{
+	background: #FFFFFF;
+	color: #FFF;
+	height: 45px;
+	padding-left: 18px;
+}
+#menu ul, #menu li {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none
+}
+#menu li {
+	float: right;
+	display: inline;
+	position: relative;
+}
+#menu a {
+	display: block;
+	line-height: 45px;
+	padding: 0 14px;
+	text-decoration: none;
+	color: #000000;
+    font-weight: 400;
+	font-size: 13px;
+    font-family: Arial,sans-serif;
+}
+#menu li a:hover {
+	text-decoration: underline;
+}
+
+.apps-icon {
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 25px;
+}
+.avatar {
+    margin-right: 8px;
+    margin-left: 15px;
+    width: 40px;
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+input[type="text"] {
+	width: 100%;
+	border: 1px solid #CCCC;
+	border-radius: 20px;
+	margin: 30px 0;
+	outline: none;
+	padding: 15px;
+	box-sizing: border-box;
+	transition: 0.3s;
+	font-family: Arial,sans-serif;
+  }
+.icon-input {
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 35%;
+	margin: 0 auto;
+	}
+.icon-input input[type="text"] {
+	padding-left: 40px;
+  }  
+.icon-input .left-icon {
+	position: absolute;
+	left: 15px;
+	top: 50%;
+	transform: translateY(-50%);
+  }
+.icon-input .right-icon {
+	position: absolute;
+	right: 80px;
+	top: 50%;
+	transform: translateY(-40%);
+	width: 25px;
+}
+.icon-color {
+	color: #9AA0A6;
+  }
+.voice-icon {
+	position: absolute;
+	right: 50px;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 25px;
+}
+.image-icon {
+	position: absolute;
+	right: 15px;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 25px;	
+}
+.btn-style {
+	height: 36px;
+	font-size: 14px;
+	border: 1px double #f2f2f2;
+	font-family: Arial,sans-serif;
+	box-shadow: 2px 1px #f2f2f2;
+	background-color: #F8F9FA;
+	color: #3C4043;
+	margin: 11px 4px;
+	padding: 0 16px;
+}
+.btn-search {
+	position: absolute;
+	right: 51%;
+	top: 37%;
+	transform: translateY(-50%);
+}
+.btn-lucky {
+	position: absolute;
+	right: 41%;
+	top: 37%;
+	transform: translateY(-50%);
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 98%;
+	height: 50px;
+	background-color: #f2f2f2;
+  }
+footer ul, footer li {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none
+}
+footer li {
+	float: left;
+	display: inline;
+	position: relative;
+}
+footer a {
+	display: block;
+	line-height: 45px;
+	padding: 0 14px;
+	text-decoration: none;
+    font-weight: 400;
+	font-size: 13px;
+    font-family: Arial,sans-serif;
+	color: #3C4043;
+}
