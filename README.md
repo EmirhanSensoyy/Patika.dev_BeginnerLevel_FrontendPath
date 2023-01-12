@@ -11,10 +11,8 @@ git clone https://github.com/EmirhanSensoyy/Patika.dev_BeginnerLevel_FrontendPat
 # Usage
 After cloning the project, open it in the program you are using.
 
-# Images
+# Images from some projects
 
-![project3](https://media.giphy.com/media/UvHAFW2csYBxZgCs1U/giphy.gif) <br>
-from the HTML course 3rd project
+![image](https://user-images.githubusercontent.com/93737133/211384157-2c73c786-6cdd-44f7-9034-c2d2fb37b35e.png)
 
-[![css1](https://iili.io/H5IPECB.md.png)](https://freeimage.host/i/H5IPECB) <br>
-from the CSS course 1rd project
+![alt-text-1](https://media.giphy.com/media/UvHAFW2csYBxZgCs1U/giphy.gif) ![alt-text-2](https://iili.io/H5IPECB.md.png)
