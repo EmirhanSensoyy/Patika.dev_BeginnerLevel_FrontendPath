@@ -22,7 +22,6 @@ body {
 }
 
 #menu {
-	background: #FFFFFF;
 	color: #FFF;
 	height: 45px;
 	padding-left: 18px;
@@ -49,7 +48,6 @@ body {
 	color: #000000;
 	font-weight: 400;
 	font-size: 13px;
-	font-family: Arial, sans-serif;
 }
 
 #menu li a:hover {
